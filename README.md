@@ -1,1 +1,1 @@
-## Welcome to Meeting Assistant
+# Welcome to Meeting Assistant
